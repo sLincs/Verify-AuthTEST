@@ -1,0 +1,2 @@
+Testing Encryption on Pull
+*Auto PASS doesn't seem to be working
